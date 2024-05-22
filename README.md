@@ -19,8 +19,6 @@ I am a/an:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tyrael-lada-8b7b712a6) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCI3wB89ew7YqpWAy0sW3YFQ) 
 
-# 💻 Tech Stack:
-
 ## :star2: Favorites
 
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
@@ -63,7 +61,8 @@ I am a/an:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![ARCH](https://img.shields.io/badge/ARCH-black?style=for-the-badge&logo=archlinux)
+![Arch](https://img.shields.io/badge/ARCH-black?style=for-the-badge&logo=archlinux)
+![Neovim](https://img.shields.io/badge/Neovim-137eca?style=for-the-badge&logo=neovim)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=44mira&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
