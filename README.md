@@ -1,4 +1,5 @@
-![image](https://github.com/44mira/44mira/assets/116419708/e6d66a48-15fc-4a2a-aaf5-528f352dc6c8)
+![power](https://github.com/44mira/44mira/assets/116419708/4db04f93-f117-41d5-bf8f-ae0f1bf2f2d6)
+
 
 # :gear: About Me:
 I code in my work, and I code in my *free time*, is there anything else to say?
