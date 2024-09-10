@@ -8,7 +8,7 @@ I am a/an:
 - Competitive Programmer
 - Arch User and Compulsive Ricer
 - Vim Glider
-- Fullstack Developer
+- Frontend, no, Software Developer
 - Low Level Enthusiast
 - Programming Language Explorer
 - Functional Programming Propagandist
