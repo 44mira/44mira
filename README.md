@@ -9,6 +9,7 @@ I am a/an:
 - Arch User and Compulsive Ricer
 - Vim Glider
 - Fullstack Developer
+- Associate Data Engineer
 - Low Level Enthusiast
 - Programming Language Explorer
 - Functional Programming Propagandist
